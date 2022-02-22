@@ -36,7 +36,7 @@
 
 ## Setup
 Clone the repo from my GitHub
-https://github.com/jackma-00/IoTProject.git and open it as a IntelliJ project.
+https://github.com/jackma-00/IoTSmartWatchProject.git and open it as a IntelliJ project.
 
 _Note you need valid and effective credentials in order to use the cloud broker. Here in the repo's code credentials are ineffective for privacy reasons._
 
